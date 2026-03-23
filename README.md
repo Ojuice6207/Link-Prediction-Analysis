@@ -13,7 +13,9 @@ Link prediction in complex networks using similarity-based methods, SBM, and Ran
 - Cosine Similarity
 - Sorensen Index
 - CAR-based methods
-- HPI, LNBCN, CCLP
+- HPI
+- LNBCN
+- CCLP
 
 #### Global Methods
 - Katz Index
