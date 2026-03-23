@@ -38,7 +38,7 @@ for name,G in graphs.items():
         y.append(1)
     X = np.array(X)
     y = np.array(y)
-    X_train, X_test, y_train, y_test = train_test_split(X,y,test_size=0.2)
+    X_train, X_test, y_train, y_test = train_test_split(X,y,test_size=0.1)
 
     # Random Forest model
     model = RandomForestClassifier(
